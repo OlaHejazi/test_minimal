@@ -1,5 +1,0 @@
-name: minimal
-description: ''
-title: Ola's Website
-baseurl: "/test_minimal" # the subpath of your site, e.g. /blog
-url: "https://OlaHejazi.github.io" # the base hostname & protocol for your site.
